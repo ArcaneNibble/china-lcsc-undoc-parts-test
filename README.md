@@ -20,7 +20,7 @@ The zero-load performance seems quite poor on the 1.2 V output. Further measurem
 
 ## LGS5500
 
-This is a LiPo charger and boost converter with automagic power path / load sharing. It appears to be perfectly-suited for battery-powered "maker" projects, especially ones that need 5 V and/or want to be able to push batteries to ~3 V rather than ~3.4 V with an ultra-low-dropout regulator or even higher. Once again I wanted to characterize the performance in more detail than in the datasheet.
+This is a LiPo charger and boost converter with automagic power path / load sharing. It appears to be perfectly-suited for battery-powered "maker" projects, especially ones that need 5 V and/or want to be able to push batteries to ~3 V rather than ~3.4 V (with an ultra-low-dropout regulator) or even higher voltages (using less and less of the battery capacity). Once again I wanted to characterize the performance in more detail than in the datasheet.
 
 ### Status
 
